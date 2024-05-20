@@ -1,5 +1,5 @@
-# evcc-hassio-addon
-evcc Add-on for Home Assistant OS
+# gegs-hass-addons
+Private Add-ons for Home Assistant OS
 
 # Installation
 
